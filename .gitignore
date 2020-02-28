@@ -5,6 +5,7 @@ __pycache__/
 *.json
 *.mp4
 *.h5
+random*
 
 # C extensions
 *.so
